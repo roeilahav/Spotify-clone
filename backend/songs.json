@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "favourite": false,
+      "songName": "Numb",
+      "artist": "Linkin Park",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/Numb%20%5BOfficial%20Music%20Video%5D%20-%20Linkin%20Park.mp3?alt=media&token=f3a8c43f-6d10-4c3d-9a70-b5d2cc178ab2",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/MV5BYmZjOGYzYjYtMTVhZi00NTBmLWI3MjYtMTIwZGJhOTlmNGE4XkEyXkFqcGdeQXVyNzQwMzAwNTI%40._V1_.jpg?alt=media&token=0725e7f5-a01f-46b6-ae14-e989a04491de"
+    },
+    {
+      "id": 2,
+      "favourite": false,
+      "songName": "Rollin",
+      "artist": "Limp Bizkit",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/Limp%20Bizkit%20-%20Rollin'%20(Official%20Music%20Video).mp3?alt=media&token=79832cd6-3d7b-4bd3-9c5c-2ac76b2326ec",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/Rollin.jfif?alt=media&token=9d7f06e9-a24b-4d2e-89b4-f4337a07cf0a"
+    },
+    {
+      "id": 3,
+      "favourite": false,
+      "songName": "Spiritual Healing",
+      "artist": "Ananda Shake",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/The%20Muses%20Rapt-%20Spiritual%20Healing%20(Ananda%20Shake%20Remix)HQ.mp3?alt=media&token=e2265936-ab08-474b-9249-c0b30fe9f15a",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/anandashake.jfif?alt=media&token=423b45e7-4680-40f1-aaf2-97c6ab74700e"
+    },
+    {
+      "id": 4,
+      "favourite": false,
+      "songName": "I Am A Peaky Blinder",
+      "artist": "Otnicka",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Ringtone%2Fpeaky-blinder.mp3?alt=media&token=2ddb5cfb-f4e0-4604-b77c-a7f63894d3ec",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Images%2Fpeakyblinder.jpg?alt=media&token=b83fbf86-37ef-47c2-948e-3447a22a2d07"
+    },
+    {
+      "id": 5,
+      "favourite": false,
+      "songName": "Shout 2000 Megamix",
+      "artist": "Disturbed, Cypress Hill and Roei Lahav",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/Disturbed%20Limp%20Bizkit%20Cypress%20Hill-%20Shout%202000%20Remix.mp3?alt=media&token=852844a6-60a4-4c1e-a28b-f7382708450b",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/disturbed.jfif?alt=media&token=835ad945-caf7-4c6c-9782-573f0ed82b8a"
+    },
+    {
+      "id": 6,
+      "songName": "Your Woman",
+      "artist": "White Town",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Ringtone%2FWhite-Town-Your-Women.mp3?alt=media&token=91817445-98ba-4a99-a4b4-6218f2742eb3",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Images%2Fwhitetown.jpg?alt=media&token=25e1ec0c-24ec-4a11-a7a7-e55ec1fc50cf"
+    },
+    {
+      "id": 7,
+      "favourite": false,
+      "songName": "נמס ממך",
+      "artist": "עומר אדם",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/%D7%A2%D7%95%D7%9E%D7%A8%20%D7%90%D7%93%D7%9D%20-%20%D7%A0%D7%9E%D7%A1%20%D7%9E%D7%9E%D7%9A.mp3?alt=media&token=1e54e621-1858-40b5-8619-11e7c26a5c30",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-8188c.appspot.com/o/OMER%20ADAM.jfif?alt=media&token=b88aec0e-1e25-4479-b812-57bc4a366b04"
+    },
+    {
+      "id": 8,
+      "favourite": false,
+      "songName": "Mask Off",
+      "artist": "Future",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Ringtone%2FFuture-Mask-Off.mp3?alt=media&token=92d8b60f-2bca-406f-914a-40bfb9a9324a",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Images%2Fmask.jpg?alt=media&token=22f0d7be-74b8-4c0d-849d-b777370e9559"
+    },
+    {
+      "id": 9,
+      "favourite": false,
+      "songName": "Hey Mama",
+      "artist": "David Guetta",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Ringtone%2FHeyMamaRingtone.mp3?alt=media&token=850148f5-8a15-4f87-995d-711138d5d7a0",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Images%2Fheymama.jpg?alt=media&token=2d8e8632-8051-4105-9760-3c715d797802"
+    },
+    {
+      "id": 10,
+      "favourite": false,
+      "songName": "Turkish Folk Battle Song",
+      "artist": "CVR Toon ",
+      "song": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Ringtone%2FPlevne-turkish.mp3?alt=media&token=72f7e03b-2865-4ffb-a2d1-da4c4557fb80",
+      "imgSrc": "https://firebasestorage.googleapis.com/v0/b/spotify-clone-7a2ef.appspot.com/o/Images%2Fturkish.jpg?alt=media&token=1f44ad17-43a8-4e1d-b232-a78b28cb9fe0"
+    }
+  ]
