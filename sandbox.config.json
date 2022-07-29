@@ -3,4 +3,5 @@
   "hardReloadOnChange": false,
   "view": "browser",
   "template": "node"
+  "startScript": "startall"
 }
