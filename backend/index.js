@@ -11,7 +11,7 @@ const app = express();
 // To solve the cors issue
 const cors=require('cors');
 
-var port = 5555;
+var port = 8080;
 app.listen(port,
 	() => console.log(`Server Start at the Port: ${port}`));
 	
