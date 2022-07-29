@@ -9,8 +9,9 @@ function AudioList(props) {
   const [img, setImg] = useState(songs[0].imgSrc);
 
   useEffect(() => {
+    let apiUrl = window.location.href.replace("3000", "8080");
     axios
-      .get("http://localhost:5555/songs")
+      .get(`${apiUrl}songs`)
       .then(function (response) {
         setSongs(response.data);
       })
