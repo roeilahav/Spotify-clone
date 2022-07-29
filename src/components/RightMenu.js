@@ -10,27 +10,17 @@ function RightMenu() {
         <i>
           <FaCrown />
           <p>
-            Go <span>Pro</span>
+            Go Pro <span></span>
           </p>
         </i>
         <i>
           <FaBell/>
         </i>
-        <i>
-          <FaRegHeart/>
-        </i>
       </div>
       <div className='profile'>
         <i>
-          <FaSun/>
-        </i>
-        <i>
           <FaCogs/>
         </i>
-
-        <div className='profileImage'>
-          <img src={Profile} alt=''/>
-        </div>
       </div>
     </div>
   )

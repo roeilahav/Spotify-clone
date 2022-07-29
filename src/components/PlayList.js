@@ -1,10 +1,10 @@
 const PlayList = [
-    {id : 1, name: 'Roei Lahav Best Producer'},
-    {id : 2, name: 'Roei Lahav Best Producer Ahusharmuta'},
-    {id : 3, name: 'Roei Lahav Best Producer Be Ima'},
-    {id : 4, name: 'Roei Lahav Best Producer Nishba'},
-    {id : 5, name: 'Roei Lahav Best Producer Noder'},
-    {id : 6, name: 'Roei Lahav Best Producer Be Elohim'},
+    {id : 1, name: 'Roeis top picks'},
+    {id : 2, name: 'Saturday morning'},
+    {id : 3, name: 'Old is gold'},
+    {id : 4, name: 'Workout'},
+    {id : 5, name: 'Chill vibes'},
+    {id : 6, name: 'Weekend is here!'},
 
 ]
 
