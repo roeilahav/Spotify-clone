@@ -11,9 +11,8 @@ const app = express();
 // To solve the cors issue
 const cors=require('cors');
 
-var port = 5555;
-app.listen(port,
-	() => console.log(`Server Start at the Port: ${port}`));
+var port = 8080;
+app.listen(port, () => console.log(`Server Start at the Port: ${port}`));
 	
 app.use(express.static('public'));
 app.use(cors());
@@ -21,8 +20,7 @@ app.use(cors());
 // when get request is made, alldata() is called
 app.get('/songs', alldata);
 
-function alldata(request, response) {
-	
+function alldata(request, response) {	
 	// Returns all information about the elements
 	response.send(elements);
 }
