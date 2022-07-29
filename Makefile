@@ -5,7 +5,7 @@ run-backend:
 	node backend/index.js
 
 run-ui:
-	npm run-script start
+	npm run-script dev
 
 start:
-	npm run-script startall
+	npm run-script start
